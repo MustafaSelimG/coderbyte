@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SınıfıGecmeDurumu {
+public class SinifiGecmeDurumu {
 
     public static void main(String[] args){
 
