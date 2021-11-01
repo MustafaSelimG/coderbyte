@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class sumofodd {
+public class Sumoffourmultiples {
 
     public static void main(String[] args) {
         boolean isOdd;
